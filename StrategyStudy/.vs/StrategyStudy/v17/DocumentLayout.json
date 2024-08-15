@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy.core\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|solutionrelative:strategystudy.core\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy.core\\strategystudy.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|solutionrelative:strategystudy.core\\strategystudy.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy.core\\enums\\notificationtypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|solutionrelative:strategystudy.core\\enums\\notificationtypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy.core\\entities\\strategy\\databasenotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|solutionrelative:strategystudy.core\\entities\\strategy\\databasenotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C330A6C-1CD4-453A-ADD2-90469BAB9F5B}|StrategyStudy\\StrategyStudy.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C330A6C-1CD4-453A-ADD2-90469BAB9F5B}|StrategyStudy\\StrategyStudy.csproj|solutionrelative:strategystudy\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy.core\\interfaces\\strategy\\inotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|solutionrelative:strategystudy.core\\interfaces\\strategy\\inotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy.core\\entities\\strategy\\emailnotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|solutionrelative:strategystudy.core\\entities\\strategy\\emailnotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|c:\\users\\guilherme.albanez\\source\\repos\\strategystudy\\strategystudy.core\\entities\\strategy\\smsnotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EEEDEA-8B4B-42B0-8C51-C73FAC85A3C2}|StrategyStudy.Core\\StrategyStudy.Core.csproj|solutionrelative:strategystudy.core\\entities\\strategy\\smsnotificationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Enums\\NotificationTypeEnum.cs",
+              "RelativeDocumentMoniker": "StrategyStudy.Core\\Enums\\NotificationTypeEnum.cs",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Enums\\NotificationTypeEnum.cs",
+              "RelativeToolTip": "StrategyStudy.Core\\Enums\\NotificationTypeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:33:00.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StrategyStudy.Core",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\StrategyStudy.Core.csproj",
+              "RelativeDocumentMoniker": "StrategyStudy.Core\\StrategyStudy.Core.csproj",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\StrategyStudy.Core.csproj",
+              "RelativeToolTip": "StrategyStudy.Core\\StrategyStudy.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T10:09:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "StrategyStudy.Core\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Services\\NotificationService.cs",
+              "RelativeToolTip": "StrategyStudy.Core\\Services\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:52:29.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SMSNotificationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Entities\\Strategy\\SMSNotificationStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyStudy.Core\\Entities\\Strategy\\SMSNotificationStrategy.cs",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Entities\\Strategy\\SMSNotificationStrategy.cs",
+              "RelativeToolTip": "StrategyStudy.Core\\Entities\\Strategy\\SMSNotificationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:50:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailNotificationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Entities\\Strategy\\EmailNotificationStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyStudy.Core\\Entities\\Strategy\\EmailNotificationStrategy.cs",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Entities\\Strategy\\EmailNotificationStrategy.cs",
+              "RelativeToolTip": "StrategyStudy.Core\\Entities\\Strategy\\EmailNotificationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:50:18.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseNotificationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Entities\\Strategy\\DatabaseNotificationStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyStudy.Core\\Entities\\Strategy\\DatabaseNotificationStrategy.cs",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Entities\\Strategy\\DatabaseNotificationStrategy.cs",
+              "RelativeToolTip": "StrategyStudy.Core\\Entities\\Strategy\\DatabaseNotificationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:49:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Interfaces\\Strategy\\INotificationStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyStudy.Core\\Interfaces\\Strategy\\INotificationStrategy.cs",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy.Core\\Interfaces\\Strategy\\INotificationStrategy.cs",
+              "RelativeToolTip": "StrategyStudy.Core\\Interfaces\\Strategy\\INotificationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:42:54.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "StrategyStudy\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\guilherme.albanez\\source\\repos\\StrategyStudy\\StrategyStudy\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "StrategyStudy\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:18:18.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
